@@ -1,1 +1,1 @@
-this repository is all about the student management system where all the required student data will be available here.
+This repository is to find all the work done given as assignments for training
